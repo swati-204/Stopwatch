@@ -9,7 +9,7 @@ This is a simple stopwatch web application created using HTML, CSS, and JavaScri
 
 ## Demo
 
-You can view the live demo of the stopwatch [here](https://github.com/swati-204/Stopwatch).
+You can view the live demo of the stopwatch [here](http://127.0.0.1:5500/Stopwatch/index.html).
 
 ## Usage
 
